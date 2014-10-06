@@ -2,4 +2,4 @@
 
 SpotSaga
 
-Everywhere has a story
+Every spot has a story
